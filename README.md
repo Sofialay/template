@@ -1,5 +1,5 @@
-#Template with:
-React App
-typescript
-react-router-dom
-sass
+# Template with:
+- React App
+- typescript
+- react-router-dom
+- sass
